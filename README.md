@@ -9,10 +9,11 @@ To successfully run this project, ensure you have the following dependencies ins
 2. NLTK library
 3. Transformers library (from Hugging Face)
 4. Pandas library
+5. Spacy
 
 You can install the necessary dependencies using the following command:
 
-pip install nltk transformers pandas
+pip install nltk transformers pandas spacy
 
 ### File Description
 
